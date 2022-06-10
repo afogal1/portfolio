@@ -66,6 +66,7 @@ const Sidebar = () => {
       </div>
       <div className={styles.sidebarBottom}>
         {sidebarBottomItems.map(({ Icon, path }) => (
+          // eslint-disable-next-line react/jsx-key
           <div className={styles.iconContainer}>
             <Link href={path} key={path}>
               <Icon
