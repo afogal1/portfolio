@@ -52,7 +52,7 @@ const AboutPage = () => {
         </a> */}
 
 
-          <Illustration className={styles.illustration} />
+          {/* <Illustration className={styles.illustration} /> */}
       </div>
     </div>
   );

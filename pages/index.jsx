@@ -25,8 +25,8 @@ export default function HomePage() {
           <Image
             className={styles.picture}
             src="/alex.png"
-            width={450}
-            height={730}
+            width={350}
+            height={630}
             alt="Alex"
           />
           {/* <Illustration className={styles.illustration} /> */}
