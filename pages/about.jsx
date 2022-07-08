@@ -28,31 +28,40 @@ const AboutPage = () => {
             <span>JavaScript</span>
           </li>
           <li>
-            <span>API</span>
+            <span>Python</span>
+          </li>
+          <li>
+            <span>React</span>
+          </li>
+          <li>
+            <span>SQL</span>
+          </li>
+          <li>
+            <span>C++</span>
+          </li>
+          <li>
+            <span>PHP</span>
+          </li>
+          <li>
+            <span>Express</span>
           </li>
           <li>
             <span>Django</span>
           </li>
           <li>
-            <span>ReactJS</span>
+            <span>Angular</span>
           </li>
           <li>
-            <span>React Native</span>
-          </li>
-          <li>
-            <span>Python</span>
+            <span>.NET</span>
           </li>
         </ul>
-        {/* <a
+        <a
           className={styles.resumeButton}
-          href="https://www.abdull.dev/resume.pdf"
-          target="_blank"
+          href="https://www.linkedin.com/in/alexander-fogal-3b9652178/"
+          target="_blank" rel="noreferrer"
         >
           <FontAwesomeIcon icon={faDownload} /> Download Resume
-        </a> */}
-
-
-          {/* <Illustration className={styles.illustration} /> */}
+        </a>
       </div>
     </div>
   );
@@ -65,5 +74,3 @@ export async function getStaticProps() {
 }
 
 export default AboutPage;
-
-

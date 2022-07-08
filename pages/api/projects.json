@@ -1,37 +1,37 @@
 [
   {
     "id": 1,
-    "name": "Start Excavting Inc. Website",
+    "name": "Start Excavating Inc. Website",
     "image": "https://imgur.com/kbGs6zH.png",
-    "description": "A platform for web developers to showcase their projects",
+    "description": "Construction company in central, Illinois",
     "tags": ["next", "node", "mongodb", "tailwind", "react-query"],
     "source_code": "https://github.com/afogal1",
     "demo": "https://github.com/afogal1"
   },
   {
-    "id": 2,
-    "name": "Movie App",
+    "id": 3,
+    "name": "ScripGuard Website",
     "image": "https://imgur.com/tAZotn3.png",
-    "description": "E-commerce website for a PCB manufacturing company",
+    "description": "A start-up company that has developed a new medical device designed to protect patients and others from misusing opioid prescription medication.",
     "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
     "demo": "https://github.com/afogal1"
   },
   {
-    "id": 3,
+    "id": 4,
     "name": "Crypto Api App",
     "image": "https://imgur.com/8FFqaX8.png",
-    "description": "A food ordering platform for healthy and home-cooked meals",
+    "description": "Crypto Currency App using React",
     "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
     "source_code": "https://github.com/afogal1/crypto_currency_app",
     "demo": "https://github.com/afogal1/crypto_currency_app"
   },
   {
-    "id": 4,
-    "name": "Rest Country Api",
+    "id": 5,
+    "name": "Number Game",
     "image": "https://imgur.com/mKkz0iz.png",
-    "description": "A themeable and developer-centric portfolio based on the VSCode",
+    "description": "JavaScript number guessing game",
     "tags": ["next", "css-modules"],
-    "source_code": "https://github.com/afogal1/rest_country_api",
-    "demo": "https://github.com/afogal1/rest_country_api"
+    "source_code": "https://github.com/afogal1/number_game",
+    "demo": "https://github.com/afogal1/number_game"
   }
 ]
